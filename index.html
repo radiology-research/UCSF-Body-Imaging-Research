@@ -1,0 +1,47 @@
+---
+layout: default
+title: Home
+---
+
+{% if page.url == "/" %}
+
+
+<section class="welcome">
+    <div class="section-title">
+        <h2><span>Welcome!</span></h2>
+    </div>
+    <div class="row">
+        <p>
+            Welcome to the UCSF Body Imaging Research Group website.  We are currently hosting a blog of our recent activities here.
+        </p>
+    
+        <p>
+            This website is very much in a beta phase, please also visit our <a target="_blank" href="https://radiology.ucsf.edu/research/research-interest-groups/body"> UCSF Radiology Official Website</a> as well for more information. 
+        </p>
+
+    </div>
+</section>
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured Posts</span></h2>
+    </div>
+    <div class="row">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>
+
+{% endif %}
+
