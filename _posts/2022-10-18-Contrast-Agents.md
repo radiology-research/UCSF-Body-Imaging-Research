@@ -18,6 +18,4 @@ It was an excellent case for targeted bowel disease contrast agent that addresse
 References:
 
 
-Link to presentation:
-
-media.ucsf.edu
+Link to presentation: https://ucsf.box.com/s/u5wnewbhmspi4imuuxsqclxtxskewzo6
