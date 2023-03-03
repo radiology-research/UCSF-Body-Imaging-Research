@@ -20,5 +20,3 @@ The group highlighted ther areas of potential related to patient management as t
 There was debate about the role of molecular imaging for HCC.  Prof. Youngho Seo shared his experience with PET in this area, which currently focuses on treatment strategies in animal models, but there was not a lot of optimism or clear PET agents to develop further.  Dr. Ohliger shared plans to try hyperpolarized 13C MRI in HCC patients for metabolic imaging.
 
 The consensus of the group that we should expand our discussions and opportunities in this area.  I liked the idea proposed of a Body Imaging subgroup focused on Liver Imaging that could take the lead in this area.  Given the breath of the Body Imaging Research Group, breaking into subgroups for some focused discussion will likely help foster collaborations, and I will start adding this structure to our group.
-
-Link to presentation: 
