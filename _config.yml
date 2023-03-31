@@ -4,7 +4,7 @@ title: "UCSF Body Imaging Research Group"
 description: "Medical Imaging Research in the Body"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'https://LarsonLab.github.io/UCSF-Body-Imaging-Research/'
+baseurl: 'https://LarsonLab.github.io/UCSF-Body-Imaging-Research'
 google_analytics: '338056062'
 disqus: 'bodyimaging'
 include: ["_pages"]
