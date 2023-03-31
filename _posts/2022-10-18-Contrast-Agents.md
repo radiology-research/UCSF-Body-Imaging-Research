@@ -3,7 +3,7 @@ layout: post
 title:  "Novel CT and MR Imaging Contrast Agents"
 author: peder
 categories: [ research ]
-image: 
+image: assets/images/logo.png
 featured: true
 ---
 
@@ -19,4 +19,4 @@ References:
 https://pubmed.ncbi.nlm.nih.gov/29969071/
 https://pubmed.ncbi.nlm.nih.gov/27620496/
 
-Link to presentation: https://ucsf.box.com/s/u5wnewbhmspi4imuuxsqclxtxskewzo6
+<!-- Link to presentation: https://ucsf.box.com/s/u5wnewbhmspi4imuuxsqclxtxskewzo6 -->

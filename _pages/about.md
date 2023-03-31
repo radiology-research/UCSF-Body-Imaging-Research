@@ -7,6 +7,8 @@ comments: false
 
 The Body Imaging Research Group includes a broad range of experts on all types of medical imaging who use these techniques to study the abdomen, pelvis, breasts, and musculoskeletal system to improve our understanding of their fundamental and holistic role in health, and how to prevent and heal damage to the body.
 
+![Members 2022](../assets/images/BodyImaging_Headshots_2022.png)
+
 ## Who we serve
 Research lead by the UCSF Body Imaging Research Group will translate to healthier futures for:
 

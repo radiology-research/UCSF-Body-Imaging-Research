@@ -3,7 +3,7 @@ layout: post
 title:  "Hepatocellular Carcinoma (HCC) Imaging"
 author: peder
 categories: [ research ]
-image: 
+image: assets/images/logo.png
 featured: true
 ---
 
