@@ -32,3 +32,11 @@ Some general open questions that we had
 * How to pitch the blend of technological innovation with translational research that many of us perform?
 
 * How to choose a study section?
+
+Let's go from
+
+![Frustrated grant writer](../assets/images/researcher_writing_grant-anime.jpeg)
+
+to
+
+![Overjoyed grant writer](../assets/images/researcher_receiving_grant-anime.jpeg)
