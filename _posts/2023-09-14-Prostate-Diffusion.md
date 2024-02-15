@@ -15,7 +15,7 @@ The foundation of this was assuming that there are multiple signal sources, and 
 
 ![Prostate Signal Sources](../assets/images/prostate_diffusion_compartments.jpg)
 
-Characterization of Prostate Microstructure Using Water Diffusion and NMR Relaxation: https://www.frontiersin.org/articles/10.3389/fphy.2018.00091/full
+Characterization of Prostate Microstructure Using Water Diffusion and NMR Relaxation: <https://www.frontiersin.org/articles/10.3389/fphy.2018.00091/full>
 
 Dr. Lemberskiy also showed that much of the characterization work leveraged advanced denoising via Random Matrix Theory (RMT).  This method jointly denoising all different b-value and diffusion direction images, leveraging shared information.  It also has shown great success in the brain.
 
@@ -24,11 +24,11 @@ Finally, there was a lot of interest in 0.55T MRI prostate MRI results Dr. Lembe
 ![Prostate MRI at 0.55T with denoising](../assets/images/prostate_MRI_RMT.jpeg)
 
 Feasibility of Accelerated Prostate Diffusion-Weighted Imaging on 0.55 T MRI Enabled With Random Matrix Theory Denoising:
-https://journals.lww.com/investigativeradiology/fulltext/2023/10000/feasibility_of_accelerated_prostate.3.aspx?context=featuredarticles&collectionid=6
+<https://journals.lww.com/investigativeradiology/fulltext/2023/10000/feasibility_of_accelerated_prostate.3.aspx?context=featuredarticles&collectionid=6>
 
-It will be interesting to follow this work, and in particular Dr. Lemberskiy's startup MICSI (https://www.ycombinator.com/companies/micsi) that aims to improve microstructure imaging for clinical practice so could become a tool we use in the future.
+It will be interesting to follow this work, and in particular Dr. Lemberskiy's startup MICSI (<https://www.ycombinator.com/companies/micsi>) that aims to improve microstructure imaging for clinical practice so could become a tool we use in the future.
 
 My remaining questions for prostate MRI diffusion in particular are how to do critical evaluation of the approach presented as well as other new frameworks such as RSI and VERDICT.
 
-Dr. Lemberskiy publications https://scholar.google.com/citations?user=_TvugCIAAAAJ
+Dr. Lemberskiy publications <https://scholar.google.com/citations?user=_TvugCIAAAAJ>
 
