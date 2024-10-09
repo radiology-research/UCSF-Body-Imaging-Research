@@ -1,13 +1,17 @@
 ---
 layout: post
-title:  "Prostate Cancer Imaging Symposium 2024"
+title:  "UCSF Prostate Cancer Imaging Symposium 2024"
 author: peder
 categories: [ research ]
 image: assets/images/PCa-Imaging-Symposium.png
 featured: true
 ---
 
-In 2024 the Body Imaging Research Group hosted a Prostate Cancer Imaging Symposium at UCSF.  The purpose was to bring together researchers who are developing and/or applying advanced prostate cancer imaging techniques.  The speakers included imaging scientists, informatics scientists, radiologists, nuclear medicine physicians, oncologists, and radiation oncologists who presented work on PET, SPECT, MRI, and theranostic agents, and applied them across the spectrum of prostate cancer progression, from diagosis to treatment of advanced disease.  The hybrid event attracted over 50 attendees and sparked numerous discussions that will hopefully seed future collaboraitons.
+In 2024 the Body Imaging Research Group hosted a Prostate Cancer Imaging Symposium at UCSF.  The purpose was to bring together researchers who are developing and/or applying advanced prostate cancer imaging techniques.  The speakers included imaging scientists, informatics scientists, radiologists, nuclear medicine physicians, oncologists, and radiation oncologists who presented work on PET, SPECT, MRI, and theranostic agents, and applied them across the spectrum of prostate cancer progression, from diagosis to treatment of advanced disease.  The hybrid event attracted over 50 attendees and sparked numerous discussions that will hopefully seed future collaboraitons.  
+Special thanks to the UCSF Precision Imaging in Cancer and Therapy (PICT) and Prostate SPORE programs for sponsoring!
+
+![UCSF Prostate Cancer Imaging Symposium](../assets/images/PCa-imaging-symposium-action1.jpg)
+
 
 I continue to be impressed by work in the field of theranostics, where Drs. Hope and Flavell showed excellent work ranging from fundamental agent development to use of these methods in a clinical service.
 
@@ -23,7 +27,7 @@ What struck me as opportunities for synergies, some of which are already happeni
 * Radiotherapy boosting and response monitoring in the prostate based on advanced use of multiparametric MRI and hyperpolarized MRI
 * Is it time to try and revitalize MR spectroscopy with modern acquisition and reconstruction methods?  Can it be made robust and fast enough for clinical use?
 * Coordination of patient enrollment across trials, and even joint trials, with clear coordination with urologists and/or oncologists
-* Helping to define standards for where to most effectively use advanced imaging across the prostate cancer progression
+* Helping to define standards for where to most effectively use advanced imaging across the spectrum of prostate cancer progression
 * Better integration of imaging features with clinical and genomic biomarkers through tools such as Information Commons
 
 Thanks to all the great speakers!
